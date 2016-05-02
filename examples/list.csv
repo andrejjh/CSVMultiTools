@@ -1,0 +1,157 @@
+species,year,column,value
+Tursiops truncatus ,2013,jan,65
+Tursiops truncatus ,2013,feb,5
+Tursiops truncatus ,2013,mar,43
+Tursiops truncatus ,2013,apr,66
+Tursiops truncatus ,2013,may,95
+Tursiops truncatus ,2013,jun,20
+Tursiops truncatus ,2013,jul,17
+Tursiops truncatus ,2013,aug,78
+Tursiops truncatus ,2013,sep,16
+Tursiops truncatus ,2013,oct,37
+Tursiops truncatus ,2013,nov,70
+Tursiops truncatus ,2013,dec,14
+Delphinus delphis ,2013,jan,71
+Delphinus delphis ,2013,feb,30
+Delphinus delphis ,2013,mar,62
+Delphinus delphis ,2013,apr,13
+Delphinus delphis ,2013,may,78
+Delphinus delphis ,2013,jun,99
+Delphinus delphis ,2013,jul,0
+Delphinus delphis ,2013,aug,83
+Delphinus delphis ,2013,sep,78
+Delphinus delphis ,2013,oct,65
+Delphinus delphis ,2013,nov,41
+Delphinus delphis ,2013,dec,88
+Cephalorhynchus hectori ,2013,apr,53
+Cephalorhynchus hectori ,2013,may,17
+Cephalorhynchus hectori ,2013,jun,49
+Cephalorhynchus hectori ,2013,jul,22
+Cephalorhynchus hectori ,2013,aug,99
+Cephalorhynchus hectori ,2013,sep,67
+Cephalorhynchus hectori ,2013,oct,51
+Cephalorhynchus hectori ,2013,nov,53
+Cephalorhynchus hectori ,2013,dec,75
+Lagenorhynchus obscurus,2013,apr,28
+Lagenorhynchus obscurus,2013,may,56
+Lagenorhynchus obscurus,2013,jun,92
+Lagenorhynchus obscurus,2013,jul,54
+Lagenorhynchus obscurus,2013,aug,2
+Lagenorhynchus obscurus,2013,sep,41
+Lagenorhynchus obscurus,2013,oct,27
+Lagenorhynchus obscurus,2013,nov,72
+Lagenorhynchus obscurus,2013,dec,90
+Stenella frontalis,2013,apr,22
+Stenella frontalis,2013,may,44
+Stenella frontalis,2013,jun,63
+Stenella frontalis,2013,jul,74
+Stenella frontalis,2013,aug,50
+Stenella frontalis,2013,sep,64
+Stenella frontalis,2013,oct,95
+Stenella frontalis,2013,nov,44
+Stenella frontalis,2013,dec,49
+Tursiops truncatus ,2014,jan,5
+Tursiops truncatus ,2014,feb,56
+Tursiops truncatus ,2014,mar,3
+Tursiops truncatus ,2014,apr,90
+Tursiops truncatus ,2014,may,75
+Tursiops truncatus ,2014,jun,63
+Tursiops truncatus ,2014,jul,83
+Tursiops truncatus ,2014,aug,67
+Tursiops truncatus ,2014,sep,56
+Tursiops truncatus ,2014,oct,76
+Tursiops truncatus ,2014,nov,87
+Tursiops truncatus ,2014,dec,20
+Delphinus delphis ,2014,jan,55
+Delphinus delphis ,2014,feb,56
+Delphinus delphis ,2014,mar,53
+Delphinus delphis ,2014,apr,61
+Delphinus delphis ,2014,may,7
+Delphinus delphis ,2014,jun,96
+Delphinus delphis ,2014,jul,86
+Delphinus delphis ,2014,aug,56
+Delphinus delphis ,2014,sep,50
+Delphinus delphis ,2014,oct,97
+Delphinus delphis ,2014,nov,74
+Delphinus delphis ,2014,dec,71
+Cephalorhynchus hectori ,2014,jan,50
+Cephalorhynchus hectori ,2014,feb,45
+Cephalorhynchus hectori ,2014,mar,63
+Cephalorhynchus hectori ,2014,apr,79
+Cephalorhynchus hectori ,2014,may,12
+Cephalorhynchus hectori ,2014,jun,81
+Cephalorhynchus hectori ,2014,jul,57
+Cephalorhynchus hectori ,2014,aug,10
+Cephalorhynchus hectori ,2014,sep,19
+Cephalorhynchus hectori ,2014,oct,67
+Cephalorhynchus hectori ,2014,nov,19
+Cephalorhynchus hectori ,2014,dec,58
+Lagenorhynchus obscurus,2014,jan,72
+Lagenorhynchus obscurus,2014,feb,42
+Lagenorhynchus obscurus,2014,mar,23
+Lagenorhynchus obscurus,2014,apr,20
+Lagenorhynchus obscurus,2014,may,34
+Lagenorhynchus obscurus,2014,jun,36
+Lagenorhynchus obscurus,2014,jul,1
+Lagenorhynchus obscurus,2014,aug,99
+Lagenorhynchus obscurus,2014,sep,33
+Lagenorhynchus obscurus,2014,oct,100
+Lagenorhynchus obscurus,2014,nov,94
+Lagenorhynchus obscurus,2014,dec,20
+Stenella frontalis,2014,jan,91
+Stenella frontalis,2014,feb,71
+Stenella frontalis,2014,mar,50
+Stenella frontalis,2014,apr,30
+Stenella frontalis,2014,may,59
+Stenella frontalis,2014,jun,66
+Stenella frontalis,2014,jul,38
+Stenella frontalis,2014,aug,41
+Stenella frontalis,2014,sep,70
+Stenella frontalis,2014,oct,47
+Stenella frontalis,2014,nov,34
+Stenella frontalis,2014,dec,64
+Tursiops truncatus ,2015,jan,22
+Tursiops truncatus ,2015,feb,26
+Tursiops truncatus ,2015,mar,67
+Tursiops truncatus ,2015,apr,29
+Tursiops truncatus ,2015,may,36
+Tursiops truncatus ,2015,jun,69
+Tursiops truncatus ,2015,jul,71
+Tursiops truncatus ,2015,aug,32
+Tursiops truncatus ,2015,sep,54
+Delphinus delphis ,2015,jan,39
+Delphinus delphis ,2015,feb,42
+Delphinus delphis ,2015,mar,15
+Delphinus delphis ,2015,apr,17
+Delphinus delphis ,2015,may,56
+Delphinus delphis ,2015,jun,50
+Delphinus delphis ,2015,jul,32
+Delphinus delphis ,2015,aug,70
+Delphinus delphis ,2015,sep,2
+Cephalorhynchus hectori ,2015,jan,60
+Cephalorhynchus hectori ,2015,feb,73
+Cephalorhynchus hectori ,2015,mar,2
+Cephalorhynchus hectori ,2015,apr,73
+Cephalorhynchus hectori ,2015,may,76
+Cephalorhynchus hectori ,2015,jun,17
+Cephalorhynchus hectori ,2015,jul,22
+Cephalorhynchus hectori ,2015,aug,49
+Cephalorhynchus hectori ,2015,sep,11
+Lagenorhynchus obscurus,2015,jan,68
+Lagenorhynchus obscurus,2015,feb,97
+Lagenorhynchus obscurus,2015,mar,73
+Lagenorhynchus obscurus,2015,apr,36
+Lagenorhynchus obscurus,2015,may,83
+Lagenorhynchus obscurus,2015,jun,53
+Lagenorhynchus obscurus,2015,jul,55
+Lagenorhynchus obscurus,2015,aug,18
+Lagenorhynchus obscurus,2015,sep,6
+Stenella frontalis,2015,jan,55
+Stenella frontalis,2015,feb,53
+Stenella frontalis,2015,mar,52
+Stenella frontalis,2015,apr,81
+Stenella frontalis,2015,may,77
+Stenella frontalis,2015,jun,5
+Stenella frontalis,2015,jul,10
+Stenella frontalis,2015,aug,69
+Stenella frontalis,2015,sep,81
